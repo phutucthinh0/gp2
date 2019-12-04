@@ -77,6 +77,11 @@ window.onload = function () {
         name="phoitrungthat"
         run(1)
     });
+    $("#2").click(function () {
+        $("button").remove();
+        name="ongben"
+        run(2)
+    });
 }
 function run(i) {
     $.getJSON(i + "/qa.json", function (data) {
