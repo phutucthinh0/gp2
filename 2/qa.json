@@ -260,33 +260,83 @@
         ]
     },
     {
-        "q": "Tất cả các đặc điểm GP sau đây xảy ra ở ngang mức góc ức (tương đương T4) TRỪ",
+        "q": "A: Ống bẹn là nơi thường xảy ra thoát vị, nhât là ở Nam giới vì \nB: Thành sau của ống bẹn là một điểm yếu của thành bụng do chỉ được cấu tạo chủ yếu mạc ngang và phúc mạc",
         "n": [
-            "khí quản chia đôi thành các phế quản chính Phải và Trái",
-            "cung động mạch củ bắt đầu",
-            "cung động mạch củ tận cùng",
-            "xương sườn thứ 3 liên tiếp khớp với xương ức",
-            "mốc giới hạn dưới của trung thất trên"
+            "...",
+            "...",
+            "...",
+            "...",
+            "..."
         ]
     },
     {
-        "q": "Tất cả các cấu trúc sau nằm trong trung thất trên TRỪ",
+        "q": "Hố bẹn ngoài có đặc điểm: ",
         "n": [
-            "các tĩnh mạch cánh tay đầu",
-            "khí quản",
-            "động mạch cảnh chung Trái",
-            "cung động mạch chủ",
-            "tĩnh mạch đơn"
+            "[1]ở thành sau ống bẹn",
+            "[2]được giới hạn phía ngoài bởi động mạch thượng vị dưới",
+            "[3]là nơi xảy ra thoát vị bẹn trực tiếp",
+            "[1][3]",
+            "[1][2][3]"
         ]
     },
     {
-        "q": "Mô tả nào trong các mô tả sau về hệ tĩnh mạch đơn đúng",
+        "q": "Nếp rồn ngoài tạo nên do phúc mạc phủ lên",
         "n": [
-            "gồm 2 tĩnh mạch đơn nằm đối xứng nhau ở 2 bên cột sống",
-            "có thể dẫn lưu máu về tĩnh mạch chủ dưới về tĩnh mạch chủ trên khi tĩnh mạch chủ dưới bị tắt",
-            "dẫn lưu máu tĩnh mạch thành ngực, cơ tim và phổi",
-            "gồm các tĩnh mạch chạy theo các động mạch cùng tên",
-            "tiếp nhận tất cả các tĩnh mạch gian sườn sau"
+            "Động mạch thượng vị dưới",
+            "thừng động mạch rốn",
+            "dây treo bàng quang",
+            "dây chằng bẹn",
+            "dây chằng khuyết"
+        ]
+    },
+    {
+        "q": "Chỗ yếu nhất của vùng bẹn và đùi là",
+        "n": [
+            "Tam giác bẹn",
+            "Tam giác đùi",
+            "Hố trên bàng quang",
+            "Hố bẹn trong",
+            "Lỗ cơ lược"
+        ]
+    },
+    {
+        "q": "Trong thoát vị bẹn trực tiếp, túi thoát vị chui vào ống bẹn qua: ",
+        "n": [
+            "lỗ bẹn nông",
+            "hố bẹn trong",
+            "lỗ bẹn sâu",
+            "hố trên bàng quang",
+            "hố bẹn ngoài"
+        ]
+    },
+    {
+        "q": "Thành phần nào sau đây là ranh giới giữa hố bẹn trong và hố bẹn ngoài ?",
+        "n": [
+            "dây chằng bẹn",
+            "động mạch thượng vị nông",
+            "dây chằng lược",
+            "động mạch thượng vị dưới",
+            "dây chằng khuyết"
+        ]
+    },
+    {
+        "q": "Về mô tả ống bẹn chọn câu đúng ",
+        "n": [
+            "Thành dưới ống bẹn là dây chằng bẹn và dây chằng lược",
+            "Thành trên ống bẹn là bờ dưới cơ chéo bụng trong và cơ ngnang bụng",
+            "Lỗ bẹn nông được giới hạn bởi dây chằng khuyết và dây chằng phản chiếu",
+            "Lỗ bẹn sâu nằng ở mạc ngang, phía trên trong dây chằng bẹn 2,5cm-3cm",
+            "Hố bẹn trong tương ứng với lỗ bẹn sâu"
+        ]
+    },
+    {
+        "q": "Về tam giác bẹn câu nào sau đây SAI ? ",
+        "n": [
+            "Cạnh ngoài là động mạch thượng vị dưới",
+            "Cạnh trong là bờ ngoài bao cơ thằng bụng",
+            "Cạnh dưới là dây chằng bẹn",
+            "Là nơi có thể xảy ra thoát vị bẹn gián tiếp",
+            "Là nơi yếu nhất của thành bụng"
         ]
     }
 ]
