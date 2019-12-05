@@ -68,7 +68,7 @@
             "Tĩnh mạch tim nhỏ đi kèm theo nhánh mũ của động mạch vành Trái",
             "Các tĩnh mạch tim chếch của tâm nhĩ Trái đổ vào tâm nhĩ Trái"
         ]
-    },,
+    },
     {
         "q": "Một máy phát nhịp tim nhân tạo được cấy cho bệnh nhân 55 tuổi. Mô nào trong các mô sau không hoạt động tốt",
         "n": [
@@ -150,133 +150,103 @@
         ]
     },
     {
-        "q": "Vẽ một đường thẳng từ cổ đến bụng, cách bờ phải của xương ức một khoát ngón tay là bờ phải các tạng nào? ",
+        "q": "Tất cả các tình trạng sau khiến cho tâm thất Phải làm việc nhiều dẫn tới phì đại TRỪ: ",
         "n": [
-            "Tĩnh mạch cảnh trong",
-            "Tĩnh mạch cánh tay đầu",
-            "Tĩnh mạch chủ trên",
-            "Tĩnh mạch chủ dưới",
-            "Tâm thất Phải"
+            "Hẹp động mạch phổi",
+            "Lỗ nhĩ - thất Trái nhỏ bất thường",
+            "Các van động mạch phổi đóng không kín",
+            "Một lỗ nhĩ - thất Phải rộng khác thường (hở)",
+            "Hẹp động mạch chủ"
         ]
     },
     {
-        "q": "Nếu thần kinh lang thang bị cắt trước khi vào ngực thì chức năng nào bị tổn thương",
+        "q": "Chứng huyết khối (sự hình thành khối máu đông) trong xoang vành có thể gây dãn tất cả tĩnh mạch sau TRỪ:",
         "n": [
-            "Co cơ hoành",
-            "Sự bài tiết của các tuyến phế quản",
-            "Co mạch máu phổi",
-            "Co thắt phế quản",
-            "Giãn BQ"
+            "tĩnh mạch tim lớn",
+            "tĩnh mạch tim giữa",
+            "tĩnh mạch tim trước",
+            "tĩnh mạch tim nhỏ",
+            "tĩnh mạch tim chéch của tâm nhĩ Trái"
         ]
     },
     {
-        "q": "Mô tả đúng về âm thanh của tim:",
+        "q": "Tất cả các mô tả sau đây về tim và các cấu trúc có liên quan với nó là đúng, TRỪ:",
         "n": [
-            "Tiếng tim liên quan đến sự đóng mở các van tim",
-            "Các vùng nghe được tiếng tim trùng với hình chiếu của mỗi van tim trên lồng ngực",
-            "Tiếng tim đầu tiên khi bắt đầu thời kì tâm trương",
-            "Tiếng của van 3 lá nghe rõ nhất ở thành trước tâm thất Phải",
-            "Tiếng van động mạch chủ nghe rõ nhất ở cạnh bờ Trái xương ức khoang gian sườn II"
+            "nó nằm trong trung thất giữa",
+            "đầu trên của tâm thất Phải được gọi là nón động mạch",
+            "rãnh vành nằm giữa các tâm nhĩ và các tâm thất",
+            "tuần hoàn máu trong các động mạch vành đạt tối đa trong lúc tâm giãn và tối thiểu trong lúc tâm thất bóp",
+            "các động mạch vành là những nhánh của cung động mạch chủ"
         ]
     },
     {
-        "q": "Trong các bệnh tim bẩm sinh, tắc nghẽn máu dẫn đến phổi được tìm thấy trong bệnh nào?",
+        "q": "Thông tin nào sau đây SAI về vách gian thất",
         "n": [
-            "[1] Tứ chứng Fallot",
-            "[2] Tắt động mạch phổi",
-            "[3] Tắc lỗ van 3 lá",
-            "[4] Di động tĩnh mạch máu phổi",
-            "[1][2][3]"
+            "ngăn cách giữa 2 tâm thất",
+            "trong phôi thai gồm 2 vách độc lập",
+            "có phần màng",
+            "vách canh lồi sang Phải",
+            "có thể có dị tật bẩm sinh thông liên thất ở phần màng"
         ]
     },
     {
-        "q": "Mô tả nào đúng về hệ tĩnh mạch đơn",
+        "q": "Xoang chếch ngoại tâm mạc nằm ở",
         "n": [
-            "Chức năng chính là dẫn máu từ thành ngực",
-            "Dẫn máu về tĩnh mạch chủ trên",
-            "Quai tĩnh mạch nằm ở phía trên rốn phổi phải",
-            "Các mạch máu 2 bên không đối xứng nhau",
-            "Tất cả các ý còn lại"
+            "giữa động mạch phổi và động mạch chủ",
+            "giữa tĩnh mạch phổi và động mạch phổi",
+            "giữa các tĩnh mạch phổi Phải và Trái",
+            "giữa tĩnh mạch chủ trên và tĩnh mạch chủ dưới",
+            "giữa tĩnh mạch phổi và tĩnh mạch chủ trên "
         ]
     },
     {
-        "q": "Cấu trúc nào sau đây KHÔNG hiện diện ở tâm nhĩ Phải",
+        "q": "Chọn câu ĐÚNG:",
         "n": [
-            "Hố bầu dục",
-            "Viền lỗ bầu dục",
-            "Viền hố bầu dục",
-            "Lỗ xoang tĩnh mạch vành",
-            "Cơ lược"
+            "[1] Người bị thông liên nhĩ có hố bầu dục không đóng kín",
+            "[2] Phần cơ vách gian thất khiếm khuyết gây tật thông liên thất",
+            "[3] Có 4 lỗ tĩnh mạch phổi đổ vào tiểu nhĩ Trái",
+            "[1][2] đúng",
+            "[1][2][3] sai"
         ]
     },
     {
-        "q": "Tâm nhĩ KHÔNG có đặc điểm nào sau đây:",
+        "q": "Hố bầu dục:",
         "n": [
-            "Thành mỏng hơn tâm thất",
-            "Thông với tâm thất cùng bên qua lỗ nhĩ thất",
-            "Có các cột cơ để nối với các lá van",
-            "Có các tĩnh mạch đổ vào",
-            "Tâm nhĩ thuộc đáy tim"
+            "là một lỗ thông từ giai đoạn phôi thai thuộc thành trong tâm nhĩ Phải",
+            "vừa thuộc tâm nhĩ Phải vừa thuộc tâm nhĩ Trái",
+            "có viền hố bầu dục giới hạn ở phía trước và trên của hố",
+            "có van của hố bầu dục là phần kéo dài của van tĩnh mạch chủ dưới",
+            "tất cả sai"
         ]
     },
     {
-        "q": "Thông thường ở mỏm tim cơ thể sờ thấy",
+        "q": "Chọn câu SAI",
         "n": [
-            "khoảng gian sườn III cạnh bên Trái xương ức",
-            "khoảng gian sườn V trên đường trung đòn Trái",
-            "khoảng gian sườn II cạnh bên Trái xương ức",
-            "khoảng gian sườn II trên đường trung đòn Trái",
-            "khoảng gian sườn V cạnh bên phải xương ức"
+            "ống ngực khó nhận biết khi bị tổn thương",
+            "ống ngực lên trung thất qua lỗ tĩnh mạch chủ của cơ hoành",
+            "hệ tĩnh mạch đơn nối tĩnh mạch chủ dưới với tĩnh mạch chủ trên",
+            "chuỗi hạch giao cảm ngực có 3 dây: tạng lớn, tạng bé và tạng dưới",
+            "tĩnh mạch đơn qua khe phía ngoài cơ hoành"
         ]
     },
     {
-        "q": "Tất cả những mô tả sau đây về phế quản chính Phải đều đúng TRỪ",
+        "q": "Chọn câu ĐÚNG:",
         "n": [
-            "nó có đường kính lớn hơn phế quản chính Trái",
-            "Các dị vật dễ đi vào nó hơn là vào phế quản chính Trái",
-            "nó tách ra ở phế quản thùy",
-            "nó dài hơn phế quản chính Trái",
-            "nó chạy dưới tĩnh mạch chủ đơn"
+            "trung thất trên có chứa tuyến ức, động mạch dưới đòn Trái, thần kinh hoành",
+            "trung thất trước là khoang hẹp ở ngay trước màng tim và sau xương ức",
+            "trung thất giữa chứa tim và màng ngoài tim",
+            "trung thất sau có chuỗi hạch giao cảm ngực",
+            "tất cả đều đúng"
         ]
     },
     {
-        "q": "Mô tả về ống ngực; TRỪ",
+        "q": "Trong trung thất sau:",
         "n": [
-            "nó bắt đầu từ bể dưỡng chấp ở trong ổ bụng",
-            "nó đi lên qua lỗ động mạch chủ của cơ hoành",
-            "nó đỗ vào chỗ nối giữa tĩnh mạch cảnh trong Trái và tĩnh mạch dưới đòn Trái",
-            "nó tiếp nhận các mạch bạch huyết đến từ các hạch cổ bên Phải",
-            "nó có van và đi lên giữa động mạch chủ và tĩnh mạch đơn ở trong ngực"
-        ]
-    },
-    {
-        "q": "Tất cả các đặc điểm GP sau đây xảy ra ở ngang mức góc ức (tương đương T4) TRỪ",
-        "n": [
-            "khí quản chia đôi thành các phế quản chính Phải và Trái",
-            "cung động mạch củ bắt đầu",
-            "cung động mạch củ tận cùng",
-            "xương sườn thứ 3 liên tiếp khớp với xương ức",
-            "mốc giới hạn dưới của trung thất trên"
-        ]
-    },
-    {
-        "q": "Tất cả các cấu trúc sau nằm trong trung thất trên TRỪ",
-        "n": [
-            "các tĩnh mạch cánh tay đầu",
-            "khí quản",
-            "động mạch cảnh chung Trái",
-            "cung động mạch chủ",
-            "tĩnh mạch đơn"
-        ]
-    },
-    {
-        "q": "Mô tả nào trong các mô tả sau về hệ tĩnh mạch đơn đúng",
-        "n": [
-            "gồm 2 tĩnh mạch đơn nằm đối xứng nhau ở 2 bên cột sống",
-            "có thể dẫn lưu máu về tĩnh mạch chủ dưới về tĩnh mạch chủ trên khi tĩnh mạch chủ dưới bị tắt",
-            "dẫn lưu máu tĩnh mạch thành ngực, cơ tim và phổi",
-            "gồm các tĩnh mạch chạy theo các động mạch cùng tên",
-            "tiếp nhận tất cả các tĩnh mạch gian sườn sau"
+            "ống ngực ở sau động mạch chủ ngực đến T10 thì hướng sang Trái để đổ vào tĩnh mạch dưới đòn Trái",
+            "thần kinh lang thang Phải ở sau thực quản, thần kinh lang Trái ở trước thực quản",
+            "cung tĩnh mạch đơn bắc cầu trên cuống phổi Trái. Cung động mạch chủ bắc cầu trên cuống phổi Phải",
+            "Tất cả đúng",
+            "Tất cả sai"
         ]
     }
 ]

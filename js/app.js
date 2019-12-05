@@ -82,6 +82,11 @@ window.onload = function () {
         name="ongben"
         run(2)
     });
+    $("#3").click(function () {
+        $("button").remove();
+        name="tim"
+        run(3)
+    });
 }
 function run(i) {
     $.getJSON(i + "/qa.json", function (data) {
