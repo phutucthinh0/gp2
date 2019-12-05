@@ -70,24 +70,6 @@ ans_e.addEventListener("click", function () {
     ans_e.className = "btn red"
 });
 
-window.onload = function () {
-    qa = $("#question").get(0)
-    $("#1").click(function () {
-        $("button").remove();
-        name="phoitrungthat"
-        run(1)
-    });
-    $("#2").click(function () {
-        $("button").remove();
-        name="ongben"
-        run(2)
-    });
-    $("#3").click(function () {
-        $("button").remove();
-        name="tim"
-        run(3)
-    });
-}
 function run(i) {
     $.getJSON(i + "/qa.json", function (data) {
         json_q = data
@@ -259,4 +241,27 @@ function download(filename, text) {
   
     document.body.removeChild(element);
   }
+  window.onload = function () {
+    qa = $("#question").get(0)
+    $("#1").click(function () {
+        $("button").remove();
+        name="phoitrungthat"
+        run(1)
+    });
+    $("#2").click(function () {
+        $("button").remove();
+        name="ongben"
+        run(2)
+    });
+    $("#3").click(function () {
+        $("button").remove();
+        name="tim"
+        run(3)
+    });
+    $("#4").click(function () {
+        $("button").remove();
+        name="ongtieuhoamm"
+        run(4)
+    });
+}
 
