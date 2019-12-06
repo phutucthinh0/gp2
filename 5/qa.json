@@ -1,0 +1,253 @@
+[
+    {
+        "1": "Thông tin nào sau đây ĐÚNG về cơ ngang ngực?",
+        "n": [
+            "[1]Bám vào mặt sau thành ngực trước",
+            "[2]Nối giữa xương ức và các sụn sườn",
+            "[3]Động tác chính là nâng lồng ngực",
+            "[1][2]",
+            "[1][2][3]" 
+        ]
+    },
+    {
+        "q": "Thông tin nào sau đây SAI về cơ thẳng bụng:",
+        "n": [
+            "gồm 2 bó ",
+            "bám từ mỏm mũi kiếm x. ức đến x.mu ",
+            "Động tác chính là gập thân",
+            "bao cơ thẳng bụng tạo thành dây chằng bẹn",
+            "có các cơ thành bụng trước bên bám vào"
+        ]
+    },
+    {
+        "q": "Nói về cơ hoành, thông tin nào sau đây SAI",
+        "n": [
+            "là tấm cơ rộng và dẹt phân cách giữa lồng ngực và ổ bụng",
+            "đóng vai trò quan trọng trong dộng tác hô hấp",
+            "cơ có hình vòm đôi mà mặt lõm hướng về phía ngực",
+            "phần chu vi của cơ hoành bám quanh các x.lồng ngực và cột sống là cơ",
+            "có phần trung tâm là gân cho nên có thể xem cơ hoành là tập hợp của nhiều cơ nhị phân"
+        ]
+    },
+    {
+        "q": "Trong các cơ thành bụng trước bên cơ có hướng các thớ cơ chạy xuống dưới và ra trước:",
+        "n": [
+            "cơ thẳng bụng",
+            "cơ chéo bụng ngoài",
+            "cơ chéo bụng trong",
+            "cơ tháp",
+            "cơ ngang bụng"
+        ]
+    },
+    {
+        "q": "Thần kinh vận động cho cơ chéo bụng ngoài",
+        "n": [
+            "[1]6 TK gian sườn cuối",
+            "[2]TK dưới sườn ",
+            "[3]TK chậu bẹn",
+            "[1][2][3]",
+            "[1][2]"
+        ]
+    },
+    {
+        "q": "Đáy phổi và màng phổi có thể liên quan trực tiếp với thận và tuyến thượng thận qua: ",
+        "n": [
+            "khe trong cơ hoành",
+            "khe ngoài cơ hoành",
+            "khe ức sườn",
+            "tam giác thắt lưng sườn",
+            "tam giác thắt lưng"
+        ]
+    },
+    {
+        "q": "Tam giác thắt lưng được giới hạn bởi",
+        "n": [
+            "cơ chép bụng ngoài, cơ trám lớn, cơ răng trước",
+            "cơ chéo bụng ngoài, cơ trám bé, cơ lưng rộng",
+            "cơ chéo bụng ngoài, cơ răng sau dưới, mào chậu",
+            "cơ chéo bụng ngoài, cơ lưng rộng, mào chậu",
+            "cơ chéo bụng ngoài, cơ chéo bụng trong, dây chằng bẹn"
+        ]
+    },
+    {
+        "q": "Câu nào ĐÚNG khi nói về bao cơ thẳng bụng",
+        "n": [
+            "Ở 2/3 trên: lá trước tạo bởi cân cơ chéo bụng ngoài, cân cơ chéo bụng trong và cân cơ răng trước",
+            "Ở 1/3 dứoi: lá trước tạo bởi cân cơ chéo bụng ngoài, bụng trong và ngang bụng",
+            "Ở 2/3 trên: lá sau tạo bởi cân cơ răng trước và mạc ngang",
+            "Ở 1/3 dưới: lá sau tạo bởi cân cơ ngang bụng, mạc ngang, dây chằng bẹn",
+            "Tất cả đều sai"
+        ]
+    },
+    {
+        "q": "Chi tiết nào sau đây không phát sinh từ cân chéo bụng ngoài:",
+        "n": [
+            "dây chằng bẹn",
+            "dây chằng khuyết",
+            "các sợi gan trụ  ",
+            "động mạch chủ bụng",
+            "tĩnh mạch chủ dưới"
+        ]
+    },
+    {
+        "q": "Động mạch nào sau đây KHÔNG phải là nhánh của động mạch hồi kết tràng",
+        "n": [
+            "Động mạch ruột thừa",
+            "Động mạch hồi tràng",
+            "Động mạch kết tràng Phải",
+            "Động mạch lên",
+            "Động mạch manh tràng trước và sau"
+        ]
+    },
+    {
+        "q": "Động mạch mạc treo tràng trên nối động mạch thân tạng thông qua: ",
+        "n": [
+            "Động mạch kết tràng giữa",
+            "Động mạch kết tràng phải",
+            "Động mạch tá tụy",
+            "Các nhánh động mạch hỗng tràng đầu tiên",
+            "Động mạch mạc treo tràng trên không nối động mạch thân tạng"
+        ]
+    },
+    {
+        "q": "Ở đoạn sau tụy, động mạch mạc treo tràng trên nằm trong tứ giác TM. TM nào sau đây KHÔNG là thành phần của tứ giác TM ",
+        "n": [
+            "Tĩnh mạch cửa",
+            "Tĩnh mạch chủ dưới",
+            "Tĩnh mạch thận Trái",
+            "Tĩnh mạch lách",
+            "Tĩnh mạch mạc treo tràng dưới"
+        ]
+    },
+    {
+        "q": "Rễ treo ruột non: ",
+        "n": [
+            "Dài 25cm",
+            "Đi chéo từ bờ bên Trái đốt sống L2 đến khớp cùng chậu Phải",
+            "Là nơi động mạch mạc treo tràng trên đi vào để đến ruột",
+            "Tất cả đều đúng",
+            "Tất cả đều sai"
+        ]
+    },
+    {
+        "q": "Động mạch mạc treo tràng trên KHÔNG cho nhánh đến:",
+        "n": [
+            "manh tràng - kết tràng",
+            "đoạn cố định tá tràng",
+            "dạ dày - đoạn di động của tá tràng",
+            "góc kết tràng Phải",
+            "tụy"
+        ]
+    },
+    {
+        "q": "Rễ treo ruột non đi qua phía trước các thành phần sau ngoại TRỪ: ",
+        "n": [
+            "phần lên (D4) tá tràng",
+            "động mạch chủ bụng",
+            "tĩnh mạch chủ dưới",
+            "ĐMTMSD (p/s: mình nghĩ là động mạch - tĩnh mạch sinh dục @@)",
+            "niệu quản Phải, cơ thắt lưng Phải"
+        ]
+    },
+    {
+        "q": "Động mạch mạc treo tràng dưới có đặc điểm:",
+        "n": [
+            "Xuất phát từ động mạch chủ bụng, ngay trên động mạch sinh dục",
+            "Đi trong mạc treo kết tràng xuống",
+            "Cung cấp máu cho toàn bộ ruột già",
+            "Có 2 tĩnh mạch đi kèm",
+            "Cho nhánh tận là động mạch trực tràng dưới"
+        ]
+    },
+    {
+        "q": "Mạc treo ruột thừa treo ruột thừa vào:",
+        "n": [
+            "thành bụng sau",
+            "thành bụng trước",
+            "manh tràng",
+            "hồi tràng",
+            "kết tràng lên"
+        ]
+    },
+    {
+        "q": "Động mạch mạc treo tràng dưới",
+        "n": [
+            "Xuất phát từ động mạch chủ bụng ở ngang mức L1",
+            "đi trong mạc treo kết tràng xuống và chỉ cung cấp máu cho kết tràng xuống",
+            "cho nhánh tận động mạch mạc treo tràng dưới",
+            "không thông nối với động mạch mạc treo tràng trên",
+            "góp phần cung cấp máu cho kết tràng ngang"
+        ]
+    },
+    {
+        "q": "Thông tin nào sau đây SAI về vách gian thất",
+        "n": [
+            "ngăn cách giữa 2 tâm thất",
+            "trong phôi thai gồm 2 vách độc lập",
+            "có phần màng",
+            "vách canh lồi sang Phải",
+            "có thể có dị tật bẩm sinh thông liên thất ở phần màng"
+        ]
+    },
+    {
+        "q": "Xoang chếch ngoại tâm mạc nằm ở",
+        "n": [
+            "giữa động mạch phổi và động mạch chủ",
+            "giữa tĩnh mạch phổi và động mạch phổi",
+            "giữa các tĩnh mạch phổi Phải và Trái",
+            "giữa tĩnh mạch chủ trên và tĩnh mạch chủ dưới",
+            "giữa tĩnh mạch phổi và tĩnh mạch chủ trên "
+        ]
+    },
+    {
+        "q": "Chọn câu ĐÚNG:",
+        "n": [
+            "[1] Người bị thông liên nhĩ có hố bầu dục không đóng kín",
+            "[2] Phần cơ vách gian thất khiếm khuyết gây tật thông liên thất",
+            "[3] Có 4 lỗ tĩnh mạch phổi đổ vào tiểu nhĩ Trái",
+            "[1][2] đúng",
+            "[1][2][3] sai"
+        ]
+    },
+    {
+        "q": "Hố bầu dục:",
+        "n": [
+            "là một lỗ thông từ giai đoạn phôi thai thuộc thành trong tâm nhĩ Phải",
+            "vừa thuộc tâm nhĩ Phải vừa thuộc tâm nhĩ Trái",
+            "có viền hố bầu dục giới hạn ở phía trước và trên của hố",
+            "có van của hố bầu dục là phần kéo dài của van tĩnh mạch chủ dưới",
+            "tất cả sai"
+        ]
+    },
+    {
+        "q": "Chọn câu SAI",
+        "n": [
+            "ống ngực khó nhận biết khi bị tổn thương",
+            "ống ngực lên trung thất qua lỗ tĩnh mạch chủ của cơ hoành",
+            "hệ tĩnh mạch đơn nối tĩnh mạch chủ dưới với tĩnh mạch chủ trên",
+            "chuỗi hạch giao cảm ngực có 3 dây: tạng lớn, tạng bé và tạng dưới",
+            "tĩnh mạch đơn qua khe phía ngoài cơ hoành"
+        ]
+    },
+    {
+        "q": "Chọn câu ĐÚNG:",
+        "n": [
+            "trung thất trên có chứa tuyến ức, động mạch dưới đòn Trái, thần kinh hoành",
+            "trung thất trước là khoang hẹp ở ngay trước màng tim và sau xương ức",
+            "trung thất giữa chứa tim và màng ngoài tim",
+            "trung thất sau có chuỗi hạch giao cảm ngực",
+            "tất cả đều đúng"
+        ]
+    },
+    {
+        "q": "Trong trung thất sau:",
+        "n": [
+            "ống ngực ở sau động mạch chủ ngực đến T10 thì hướng sang Trái để đổ vào tĩnh mạch dưới đòn Trái",
+            "thần kinh lang thang Phải ở sau thực quản, thần kinh lang Trái ở trước thực quản",
+            "cung tĩnh mạch đơn bắc cầu trên cuống phổi Trái. Cung động mạch chủ bắc cầu trên cuống phổi Phải",
+            "Tất cả đúng",
+            "Tất cả sai"
+        ]
+    }
+]
+
