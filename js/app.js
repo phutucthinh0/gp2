@@ -263,5 +263,10 @@ function download(filename, text) {
         name="ongtieuhoamm"
         run(4)
     });
+      $("#5").click(function () {
+        $("button").remove();
+        name="ongtieuhoamm"
+        run(5)
+    });
 }
 
